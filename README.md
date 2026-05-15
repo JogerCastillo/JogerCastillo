@@ -1,12 +1,36 @@
-# Nice day!!!
+# Nice day, there. I'm Joger a full stack developer 👋🏻
 
-# My name is Joger Castillo
+I work with JavaScript (Node, Express, NestJS), Python (Django) and C# (.NET). 
+Also MySQL, MongoDB, Docker and professional version control (Git, GitHub, GitLab).
 
-### Nice to have you here...👋
+I am constantly learning, with the goal of becoming a better person and a better professional.
 
-- 🔭 **I’m currently** working on personal project about training employees of industrial companies.
-- 🌱 **I’m currently** learning cyber security.
-- ✋ **I’m looking** to start to work in back-end job.
-- 👍 **I’m looking** for help in any project project in which my knowledge brings a lot of ideas.
-- 💬 **If you want,** you cand ask me about my personal interests.
-- 📫 **To reach me** please send me an e-mail to [joger6c@gmail.com](mailto:joger6c@gmail.com).
+---
+
+## Projects I've uploaded to GitHub
+
+**Inventory system** (private, available for demo)
+Inventory and sales control, role-based authentication, REST API, Docker deployment. 
+JavaScript, HTML, CSS, Docker.
+
+**Help desk**
+Internal ticket management. Roles, filters, tracking metrics.
+
+**Appointment system**
+Schedule and customer service operations. Frontend in HTML/CSS/JS, backend with Node + Express + Zod + JWT.
+
+**Real estate** 
+A project that will provide an online sales service for those who want to list their properties.
+
+**Cybersecurity with Python** (to be defined)
+...
+
+---
+
+## How I work
+
+- I adapt quickly to new technologies.
+- Task automation.
+- Teamwork and assertive communication.
+
+Open to work, contribute, learn, and give it my all. 👨🏻‍💻

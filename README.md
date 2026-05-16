@@ -1,36 +1,57 @@
-# Nice day, there. I'm Joger a full stack developer 👋🏻
+# Joger · Full Stack Developer 👋🏻
 
-I work with JavaScript (Node, Express, NestJS), Python (Django) and C# (.NET). 
-Also MySQL, MongoDB, Docker and professional version control (Git, GitHub, GitLab).
-
-I am constantly learning, with the goal of becoming a better person and a better professional.
+A developer passionate about technology and everything related to it, who is constantly learning and striving for continuous improvement.
 
 ---
 
-## Projects I've uploaded to GitHub
+## Stack
 
-**Inventory system** (private, available for demo)
-Inventory and sales control, role-based authentication, REST API, Docker deployment. 
-JavaScript, HTML, CSS, Docker.
+**Backend** — Node.js · Express · NestJS · Django · .NET (C#)  
+**Frontend** — JavaScript (ES6+) · HTML · CSS  
+**Databases** — MySQL · MongoDB  
+**Tooling** — Docker · Git · GitHub · GitLab · REST APIs · JWT · Zod
 
-**Help desk**
-Internal ticket management. Roles, filters, tracking metrics.
+---
 
-**Appointment system**
-Schedule and customer service operations. Frontend in HTML/CSS/JS, backend with Node + Express + Zod + JWT.
+## Projects
 
-**Real estate** 
-A project that will provide an online sales service for those who want to list their properties.
+**[Inventory System](https://github.com/joger)** · `JS / HTML / CSS / Docker` · *Private*
 
-**Cybersecurity with Python** (to be defined)
-...
+Inventory and sales control for real business use. Role-based authentication, REST API, and Docker setup that makes deployment straightforward.
+
+---
+
+**[Help Desk](https://github.com/joger)**
+
+Internal ticketing system for support teams. Roles, filters, status tracking, and metrics that tell you something useful. The kind of tool that turns an overflowing inbox into a manageable process.
+
+---
+
+**[Appointment System](https://github.com/joger)** · `Node.js · Express · Zod · JWT · HTML/CSS/JS` ·
+
+Scheduling and customer service platform with a complete frontend and a well-structured REST API. Validation with Zod, authentication with JWT.
+
+---
+
+**[Real Estate Marketplace](https://github.com/joger)** · *In development*
+
+A specialized platform for those who want to sell a property but don't have the time to constantly promote it. A global classifieds platform focused on the real estate sector and designed to truly work for sellers with no sales experience.
+
+---
+
+**Cybersecurity Tool** · *Python — coming*
+
+Brainstorming the next project...
 
 ---
 
 ## How I work
 
-- I adapt quickly to new technologies.
-- Task automation.
-- Teamwork and assertive communication.
+Adapt to new stacks.  
+Task automation.
+Teamwork and assertive communication. 
+Teamwork and assertive communication.
 
-Open to work, contribute, learn, and give it my all. 👨🏻‍💻
+---
+
+*Open to work, contribute, learn, and give it my all. 👨🏻‍💻.*
